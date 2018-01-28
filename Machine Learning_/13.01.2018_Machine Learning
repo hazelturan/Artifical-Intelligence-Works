@@ -1,0 +1,20 @@
+MACHINE LEARNING NOTES:
+
+
+*Bir evin fiyatını tahmin edebilmek (Linear Regression-tek değişkenli durumlar)
+
+*Linear regression ile optimum sonuca ulaşmak (gradient descent-least squares- en küçük kareler metodu) hatayı kademeli şekilde düşürmek
+
+*Spam mail olma olasılığını tahmin edebilmek (tüm ihtimallleri gözden geçirmek yani koşullu olasılık -Naive Bayes Algotirması)
+
+*Uygulama önerilerini tahmin edebilmek (Recommending App -Deciison Tree -Yaş,cinsiyet gibi kriterlere önem sırasıyla yer vermek)
+
+*Bir üniversiteye kabul olma oranı (Acceptance at a university-Logistic Regression-2 değişkenli durumlar-gradient descent)
+
+*Makina öğrenmesinde elimizide ne kadar çok veri olursa doğru sonuca o kadar çok yaklaşırız.
+
+*Cutting data with style (Linear Optimization-Support Vector Machine-Araya bir çizgi çekmek)
+
+*Kernel Trick (Hangi denklemin işe yarar olduğuna karar verip doğru ve yüzey çizimini yapmak)
+
+*K-Means Clustering (Evlerin yakın olduğu bölgelere göre pizza hattı kuralacak yere karar verme durum
